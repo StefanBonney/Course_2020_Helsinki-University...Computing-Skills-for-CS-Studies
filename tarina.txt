@@ -1,2 +1,6 @@
 pätkä tekstiä
+<<<<<<< Updated upstream
 githubissa tehty muutos
+=======
+paikallinen muutos
+>>>>>>> Stashed changes
