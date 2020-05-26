@@ -1,7 +1,5 @@
-<<<<<<< HEAD
+
 maito
 karkki paikallinen muutos
-=======
 maito muokkaus githubissa
 karkki
->>>>>>> 98f626544050b9613a0c6b4465321e9cf8f08bde
